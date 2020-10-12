@@ -1,0 +1,13 @@
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\abuzduga\Source\Repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.genruntimeconfig.cache
